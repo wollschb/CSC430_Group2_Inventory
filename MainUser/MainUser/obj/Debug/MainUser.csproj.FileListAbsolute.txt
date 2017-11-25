@@ -178,3 +178,7 @@ C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\bin\Mi
 C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\obj\Debug\MainUser.csproj.CoreCompileInputs.cache
 C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\obj\Debug\MainUser.dll
 C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\obj\Debug\MainUser.pdb
+C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\bin\MainUser.dll.config
+C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\bin\MainUser.dll
+C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\bin\MainUser.pdb
+C:\Users\Brian\Documents\GitHub\CSC430_Group2_Inventory\MainUser\MainUser\obj\Debug\MainUser.csprojResolveAssemblyReference.cache
