@@ -1,0 +1,8 @@
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\bin\Debug\AlabamaDB.mdf
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\bin\Debug\AlabamaDB_log.ldf
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\bin\Debug\TestDB2.exe.config
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\bin\Debug\TestDB2.exe
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\bin\Debug\TestDB2.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\obj\Debug\TestDB2.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\obj\Debug\TestDB2.exe
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB2\TestDB2\obj\Debug\TestDB2.pdb

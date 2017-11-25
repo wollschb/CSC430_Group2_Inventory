@@ -1,0 +1,13 @@
+﻿--insert into Inventory values (id, partNumber, 'description', qty, cost);
+TRUNCATE TABLE Inventory;
+insert into Inventory values (1, 2345, 'Front door', 3,  234.21);
+insert into Inventory values (2, 2222, 'Rear door', 2, 222.21);
+insert into Inventory values (3, 2246, 'Front window', 6, 654.21);
+insert into Inventory values (4, 2567, 'Drive bearing', 23, 64.21);
+insert into Inventory values (5, 6545, 'Spark plug', 99, 4.21);
+insert into Inventory values (6, 98325, 'Ignition wire', 8, 34.21);
+insert into Inventory values (7, 853, 'Oil filter', 21, 23.21);
+insert into Inventory values (8, 5412, 'Gas filter', 3, 24.21);
+insert into Inventory values (9, 5432, 'Air filter', 9, 9.21);
+insert into Inventory values (10, 8763, 'Brake', 9, 21.21);
+insert into Inventory values (11, 56931, 'Tire', 1, 1234.10);

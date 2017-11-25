@@ -1,0 +1,50 @@
+﻿@model MainUser.Inventory
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Inventory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.partNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.partNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.partDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.partDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.partQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.partQuantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.partCost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.partCost)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idInventory }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

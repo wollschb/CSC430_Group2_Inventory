@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OhioDBModelStoreContainer" CdmEntityContainer="OhioDBEntities">
+    <EntitySetMapping Name="Inventories">
+      <EntityTypeMapping TypeName="OhioDBModel.Inventory">
+        <MappingFragment StoreEntitySet="Inventory">
+          <ScalarProperty Name="idInventory" ColumnName="idInventory" />
+          <ScalarProperty Name="partNumber" ColumnName="partNumber" />
+          <ScalarProperty Name="partDescription" ColumnName="partDescription" />
+          <ScalarProperty Name="partQuantity" ColumnName="partQuantity" />
+          <ScalarProperty Name="partCost" ColumnName="partCost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

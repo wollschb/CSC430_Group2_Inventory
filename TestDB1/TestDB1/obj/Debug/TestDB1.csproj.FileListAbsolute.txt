@@ -1,0 +1,8 @@
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\bin\Debug\OhioDB.mdf
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\bin\Debug\OhioDB_log.ldf
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\bin\Debug\TestDB1.exe.config
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\bin\Debug\TestDB1.exe
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\bin\Debug\TestDB1.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\obj\Debug\TestDB1.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\obj\Debug\TestDB1.exe
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB1\TestDB1\obj\Debug\TestDB1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\bin\Debug\CaliforniaDB.mdf
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\bin\Debug\CaliforniaDB_log.ldf
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\bin\Debug\TestDB3.exe.config
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\bin\Debug\TestDB3.exe
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\bin\Debug\TestDB3.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\obj\Debug\TestDB3.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\obj\Debug\TestDB3.exe
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\CSC430_Group5\TestDB3\TestDB3\obj\Debug\TestDB3.pdb
