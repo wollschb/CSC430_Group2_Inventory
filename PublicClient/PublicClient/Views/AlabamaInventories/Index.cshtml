@@ -1,0 +1,49 @@
+﻿@model IEnumerable<PublicClient.Inventory>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Alabama Warehouse</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.partNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.partDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.partQuantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.partCost)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.partNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.partDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.partQuantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.partCost)
+        </td>
+        <td>
+           
+            @Html.ActionLink("Details", "Details", new { id=item.idInventory }) |
+           
+        </td>
+    </tr>
+}
+
+</table>

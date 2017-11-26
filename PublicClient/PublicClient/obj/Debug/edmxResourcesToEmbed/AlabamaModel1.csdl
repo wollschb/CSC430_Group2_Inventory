@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AlabamaDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Inventory">
+    <Key>
+      <PropertyRef Name="idInventory" />
+    </Key>
+    <Property Name="idInventory" Type="Int32" Nullable="false" />
+    <Property Name="partNumber" Type="Int32" Nullable="false" />
+    <Property Name="partDescription" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="partQuantity" Type="Int32" Nullable="false" />
+    <Property Name="partCost" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AlabamaDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Inventories" EntityType="Self.Inventory" />
+  </EntityContainer>
+</Schema>
