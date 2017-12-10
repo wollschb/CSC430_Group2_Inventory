@@ -190,6 +190,7 @@
     <Compile Include="Controllers\CaliforniaInventoriesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\OhioInventoriesController.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -328,6 +329,7 @@
     <Content Include="Views\CaliforniaInventories\Details.cshtml" />
     <Content Include="Views\CaliforniaInventories\Edit.cshtml" />
     <Content Include="Views\CaliforniaInventories\Index.cshtml" />
+    <Content Include="Views\Search\index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

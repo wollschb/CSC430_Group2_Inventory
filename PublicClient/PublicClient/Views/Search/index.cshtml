@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>Search Part Inventory</h2>
+
+<div class="row">
+    <h3>Enter the part number to search for...</h3>
+
+    <input type="text" id="myText" value="Part Number...">
+    <button onclick="myFunction()">Search</button>
+
+    <hr />
+
+    <p id="demo"></p>
+
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myText").value;
+            document.getElementById("demo").innerHTML = ("The part number you are searching is: ") + x;
+        }
+    </script>
+</div>
+
+
